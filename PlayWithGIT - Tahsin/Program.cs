@@ -11,6 +11,7 @@ namespace PlayWithGIT___Tahsin
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GIT");
+            Console.WriteLine("This is my second change.");
         }
     }
 }
